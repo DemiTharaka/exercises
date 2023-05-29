@@ -1,28 +1,12 @@
-.rose{
-background-color: rgb(231, 162, 162);
-
-color: black;
+.one,.two{
+font-size: 28px;
+font-family: Helvetica,'Times New Roman', sans-serif;
 }
 .one{
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: black;
+
 }
 .two{
-font-family:DejaVu Sans;
-font-size: 24px;
-
-
-}
-.three{
-    font-family: sans-serif;
-}
-#blu{
-    font-size: 36px;
-    color: blue;
-    background-color: white;
-}
-#grn{
-
-    font-size: 24px;
-    background-color: rgb(115, 211, 115);
-    font-weight: bold;
+    background-color: yellow;
 }
